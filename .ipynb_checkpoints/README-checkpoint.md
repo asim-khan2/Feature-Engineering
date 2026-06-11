@@ -22,7 +22,7 @@ This repository contains my learning and practice work in Feature Engineering fo
 
 * Random Oversampling (Upsampling)
 * Random Undersampling (Downsampling)
-* Introduction to SMOTE (synthetic minority over    sampling technique)
+* Introduction to SMOTE
 
 ## 🎯 Goal
 
