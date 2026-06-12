@@ -22,7 +22,17 @@ This repository contains my learning and practice work in Feature Engineering fo
 
 * Random Oversampling (Upsampling)
 * Random Undersampling (Downsampling)
-* Introduction to SMOTE
+* Introduction to SMOTE (synthetic minority over    sampling technique)
+
+### 3. Handling Outlier using Python
+* Minimum value
+* Q1 25% (quartile)
+* Median
+* Q3 75% (quartile)
+* IQR (Inter Quartile Range)
+* lower bound = Q1 - 1.5 * IQR
+* upper bound = Q3 + 1.5 * IQR
+* show the outlier using box plot
 
 ## 🎯 Goal
 
