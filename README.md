@@ -34,6 +34,10 @@ This repository contains my learning and practice work in Feature Engineering fo
 * upper bound = Q3 + 1.5 * IQR
 * show the outlier using box plot
 
+### 4. Encoding techniques
+* nominal or OneHotEncoding
+* label and ordinal Encoding
+* Target Guid ordinal Encoding
 ## 🎯 Goal
 
 The goal of this repository is to document my Feature Engineering learning journey and build a strong foundation in Machine Learning and Data Science.
